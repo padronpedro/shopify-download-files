@@ -1,0 +1,29 @@
+{
+  "name": "shopify-download-files-is",
+  "version": "1.0.0",
+  "description": "Javascript function to download all files from a Shopify Store",
+  "main": "download-files.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/padronpedro/shopify-download-files.git"
+  },
+  "keywords": [
+    "Shopify",
+    "files",
+    "download",
+    "export"
+  ],
+  "author": "Pedro Padron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/padronpedro/shopify-download-files/issues"
+  },
+  "homepage": "https://github.com/padronpedro/shopify-download-files#readme",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0"
+  }
+}
